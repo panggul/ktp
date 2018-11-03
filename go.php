@@ -14,8 +14,8 @@ $kk = $data3[1];
 //$data4 = array('KTP' => $ktp, 'NO_KK' => $kk);
 //print(json_encode(array('src'=>'Hasil', 'result'=>$data4)));
 echo ".::[ KTP & KK Generate ]::.\n\n";
-echo "decoded by GhostDecoded || www.androhackerz81.zone.id\n";
-echo "Thanks To; zerovn || babby cyber team\n\n";
+echo "decoded by Gaara \n";
+echo "Thanks To; Indonesian Hacker team || zerovn || babby cyber team\n\n";
 echo "No. KTP : ".$ktp."\n";
 echo "No. KK : ".$kk."\n";
 ?>
